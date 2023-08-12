@@ -23,28 +23,31 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
+
+  
 
 
-
-"start_vpn":"yes",
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
   
-  
 
 },
- 
- "my_data":[
-  {"title":"ru store android 1","desc":"In the vibrant landscape of digital gaming, players are constantly on the lookout for the best deals, exclusive content, and unique experiences. The RU Store emerges as a haven for gamers, offering a curated selection of games, add-ons, and other digital content that caters to a diverse range of preferences. As a hub of gaming delights, the RU Store has garnered attention from players seeking an exceptional gaming experience that goes beyond the ordinary. Let's explore the world of the RU Store and discover the treasures it holds for avid gamers.","photo":"https://iili.io/HDTQ6hv.webp"},
-  {"title":"ru store android 2","desc":"The RU Store is renowned for its extensive library of games spanning various genres and platforms. From heart-pounding action titles to thought-provoking indie gems, the store offers a wealth of options to cater to different tastes and preferences. Whether you're a fan of immersive role-playing adventures, fast-paced shooters, or captivating narrative-driven experiences, the RU Store has something for everyone, ensuring that players can embark on thrilling virtual journeys that resonate with their gaming desires.","photo":"https://iili.io/HDTQmps.webp"},
-  {"title":"ru store android 3","desc":"One of the standout features of the RU Store is its offering of exclusive content and add-ons that enhance the gameplay of existing titles. Players can discover downloadable content (DLC), expansions, and in-game items that enrich their gaming experiences. These additions often introduce new storylines, characters, maps, and cosmetic options, breathing new life into beloved games and providing fresh challenges for players to conquer.","photo":"https://iili.io/HDTQyTG.webp"},
-  {"title":"ru store android 4","desc":"Value-conscious gamers will find the RU Store to be a haven of competitive prices, promotions, and bundle deals. From seasonal sales events to special offers on popular titles, the store strives to provide players with cost-effective opportunities to expand their gaming library. This commitment to affordability ensures that players can enjoy high-quality gaming experiences without breaking the bank.","photo":"https://iili.io/HDTZ2G2.webp"},
-  {"title":"ru store android 5","desc":"Accessing the RU Store is a straightforward process that offers a seamless shopping experience. Gamers can browse through the store's user-friendly interface, exploring categories, genres, and featured titles to find their next gaming adventure. With clear descriptions, user reviews, and recommendations, players can make informed decisions about their purchases, ensuring that each game aligns with their preferences and expectations.","photo":"https://iili.io/HDTZrc7.webp"},
-  {"title":"ru store android 6","desc":"Beyond its role as a marketplace, the RU Store fosters a sense of community among gamers. Players can share reviews, ratings, and recommendations for their favorite titles, helping fellow gamers discover hidden gems and make informed choices. Additionally, the store often hosts events, competitions, and digital gatherings that bring players together, creating a vibrant and interconnected gaming ecosystem.","photo":"https://iili.io/HDTZyS1.webp"},
-  {"title":"The Ru Store takes localization seriously, tailoring its offerings to cater specifically to the Russian gaming community. This includes not only a vast selection of Russian-language content but also support for regional payment methods and customer service in local languages. This commitment to providing a localized experience ensures that players in Russia can fully immerse themselves in the world of digital gaming.","desc":"description7 ser","photo":"https://iili.io/HDTt5il.webp"},
-  {"title":"In a digital era marked by convenience and accessibility, the Ru Store emerges as a vital destination for gamers seeking a diverse range of gaming content and experiences. Through its extensive library, user-friendly interface, exclusive deals, and dedication to localizing the gaming experience, the Ru Store reflects the ever-evolving landscape of digital marketplaces. As gamers continue to explore the expansive world of digital delights offered by the Ru Store, they embark on a journey that exemplifies the seamless fusion of technology, entertainment, and the joy of gaming.","desc":"description8 ser","photo":"https://iili.io/HDTDH12.webp"}
+  "my_data":[
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
