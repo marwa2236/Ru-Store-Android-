@@ -27,10 +27,14 @@
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"vungle_reward":"",
 
   
-
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
 "download_dialog_txt":"download text from server",
 "banner_network_choice":"yandex", 
@@ -41,14 +45,12 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the rapidly evolving landscape of data storage, innovation is the driving force behind the development of more efficient, secure, and reliable solutions. One such innovation is Rustore.","photo1":"https://freeimage.host/i/HyLoRCG"},
+  {"desc2":"Rustore is gaining attention for its ability to provide high performance, memory safety, and concurrency, all essential aspects of modern data storage systems. In this article, we'll delve into what Rustore is, its key features, and how it's poised to revolutionize the way we store and manage data..","photo2":"https://iili.io/HyLoTjn.webp"},
+  {"desc3":"Rustore is a data storage framework that leverages the power of the Rust programming language to deliver a novel approach to data storage. Rust, known for its emphasis on memory safety and performance.","photo3":"https://iili.io/HyLouQs.webp"},
+  {"desc4":"serves as the foundation for Rustore's design principles. This framework aims to address some of the most critical challenges faced by traditional data storage systems, such as memory leaks, data corruption, and thread safety issues.","photo4":"https://iili.io/HyLoITX.webp"},
+  {"desc5":"User-Friendly Interface: This point emphasizes that RStore APK prioritizes ease of use, ensuring that users can navigate and interact with the platform comfortably.","photo5":"https://iili.io/HyLo5Gf.webp"},
+  {"descd":"Rustore's emergence marks a significant step forward in the data storage landscape. Its ability to combine memory safety, concurrency, and performance makes it an attractive choice for developers looking to create robust and efficient storage solutions. As the demand for reliable and scalable data storage continues to rise across industries, Rustore has the potential to reshape how organizations manage their data..","photod":"https://iili.io/HyLo744.webp"}
    ]
  
 }
-   
