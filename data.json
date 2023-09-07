@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"rustore для android","package_name":"com.rustorehelper.markertru","icon":"https://play-lh.googleusercontent.com/S7cVBKcbhrQ9ZR5vyRoynkt2yIQZrGCV3UvsuLsk2F9HkB7kATUGUCHQzp42ToKskHbp=w240-h480-rw"},
+  {"name":"rustore для android сбербанк","package_name":"com.russianstore.mobiletest","icon":"https://play-lh.googleusercontent.com/722qYA66mlSJT8HBgObfJFafdjepmOEs3ySUWCFcmHsG9OkXpeW9mO-5hUmzF5bpVOU=w240-h480-rw"},
+  {"name":"nashstore для андроид","package_name":"com.nashstore.marketmobile","icon":"https://avatars.mds.yandex.net/get-images-cbir/4298673/RvNhOWq6RzPe_vUOwGXW3w4491/ocr"}
    ],
 
 "download_dialog_txt":"download text from server",
